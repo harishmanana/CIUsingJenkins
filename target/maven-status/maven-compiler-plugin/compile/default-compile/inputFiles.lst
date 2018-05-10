@@ -1,7 +1,7 @@
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\controller\NoteController.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\config\WebMvcConfig.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\dao\NoteDAOImpl.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\config\ApplicationContextConfig.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\config\WebAppInitializer.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\model\Note.java
-D:\Programs\Eclipse\Spring7-9\KeepNote-Step2-Boilerplate-master NEW\src\main\java\com\stackroute\keepnote\dao\NoteDAO.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\controller\NoteController.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\model\Note.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\dao\NoteDAOImpl.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\config\WebMvcConfig.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\dao\NoteDAO.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\config\WebAppInitializer.java
+D:\Programs\Eclipse\Spring7-9\CIProject\src\main\java\com\spring\config\ApplicationContextConfig.java

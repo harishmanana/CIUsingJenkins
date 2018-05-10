@@ -23,10 +23,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-import com.stackroute.keepnote.config.ApplicationContextConfig;
-import com.stackroute.keepnote.controller.NoteController;
-import com.stackroute.keepnote.dao.NoteDAO;
-import com.stackroute.keepnote.model.Note;
+
+import com.spring.config.ApplicationContextConfig;
+import com.spring.controller.NoteController;
+import com.spring.dao.NoteDAO;
+import com.spring.model.Note;
 
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = { ApplicationContextConfig.class })

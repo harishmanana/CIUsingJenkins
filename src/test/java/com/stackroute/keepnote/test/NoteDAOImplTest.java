@@ -16,10 +16,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringRunner;
-import com.stackroute.keepnote.config.ApplicationContextConfig;
-import com.stackroute.keepnote.dao.NoteDAO;
-import com.stackroute.keepnote.dao.NoteDAOImpl;
-import com.stackroute.keepnote.model.Note;
+
+import com.spring.config.ApplicationContextConfig;
+import com.spring.dao.NoteDAO;
+import com.spring.dao.NoteDAOImpl;
+import com.spring.model.Note;
 
 @RunWith(SpringRunner.class)
 @Transactional
